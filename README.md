@@ -3,6 +3,11 @@
 Bu kod, bir haber başlığı ve kısa açıklamadan oluşan bir veri kümesindeki haber kategorilerini tahmin etmek için bir dizi makine öğrenimi modelini eğitiyor. Önce veriyi yüklüyor, ön işleme adımları uyguluyor, ardından farklı model ve vektörleştirme stratejileri kullanarak sınıflandırma yapılıyor. Sonuçları değerlendirmek için sınıflandırma raporları kullanılıyor.
 <br/>
 
+## Projeyi Geliştirenler
+
+Mehmet Fatih Kuru<br/>
+Karya Korkmazyiğit
+
 ## Kullanılan Kütüphaneler
 
 
@@ -77,3 +82,5 @@ Kategorilere göre modellerin test verisetindeki başarı dağılımları classi
 
 
 Gördüğünüz gibi MultinomialNB ve n_grams=(1,3) kullandığımızda cls2'den en iyi sonuç (%91 doğruluk) alınmaktadır.
+
+
