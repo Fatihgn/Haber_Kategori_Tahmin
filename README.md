@@ -6,7 +6,6 @@ Bu kod, bir haber başlığı ve kısa açıklamadan oluşan bir veri kümesinde
 ## Projeyi Geliştirenler
 
 Mehmet Fatih Kuru<br/>
-Karya Korkmazyiğit
 
 ## Kullanılan Kütüphaneler
 
